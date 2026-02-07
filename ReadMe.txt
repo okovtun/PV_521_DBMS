@@ -4,6 +4,7 @@ https://www.youtube.com/playlist?list=PLeqyOOqxeiIM4lxjBeTZqCL7bRQ80-UaY
 TODO:
 1. Изучить теорию по системам счисления:
 	https://github.com/okovtun/PV_521_DBMS/blob/master/NumericSystems.pdf
+	!!! https://github.com/okovtun/PV_521_DBMS/blob/master/Error.png !!!
 2. По желанию ознакомиться с доками:
 	https://learn.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver17
 
