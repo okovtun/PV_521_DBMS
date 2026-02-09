@@ -1,7 +1,15 @@
 ﻿https://github.com/okovtun/PV_521_DBMS.git
 https://www.youtube.com/playlist?list=PLeqyOOqxeiIM4lxjBeTZqCL7bRQ80-UaY
 
+IEEE-754:
+http://www.softelectro.ru/teoriy.html
+
 TODO:
+1. Разница между Григорианским и Юлианским календарями;
+2. Разница между GMT и UTC;
+3. На сколько градусов оборачивается Земля за 1 час;
+
+DONE:
 1. Изучить теорию по системам счисления:
 	https://github.com/okovtun/PV_521_DBMS/blob/master/NumericSystems.pdf
 	!!! https://github.com/okovtun/PV_521_DBMS/blob/master/Error.png !!!
