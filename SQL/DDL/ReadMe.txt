@@ -4,17 +4,7 @@ https://www.youtube.com/playlist?list=PLeqyOOqxeiIM4lxjBeTZqCL7bRQ80-UaY
 IEEE-754:
 http://www.softelectro.ru/teoriy.html
 
-CAST vs CONVERT:
-https://stackoverflow.com/questions/59916558/sql-server-cast-vs-convert
-
-TODO:
-1. Выставить расписание на базовый семестр по схеме 12-21;
-
-DONE:
-1. По каждому направлению обучения вывести количество групп и количество студентов;
-2. Для каждого преподавателя вывести количество дисциплин, котороые он может вести;
-3. Для каждой дисциплины вывести количество преподавателей, которые могут вести эту дисциплину;
-4. Заполнить таблицу с расписанием для своей группы от начала обучения по сей день;
+DROP DATABASE:https://stackoverflow.com/questions/33890085/how-to-drop-a-database-when-its-currently-in-use
 
 DONE:
 1. Разница между Григорианским и Юлианским календарями;
