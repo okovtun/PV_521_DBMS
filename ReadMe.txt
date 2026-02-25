@@ -8,6 +8,10 @@ CAST vs CONVERT:
 https://stackoverflow.com/questions/59916558/sql-server-cast-vs-convert
 
 TODO:
+1. Вынессти вставку урока в отдельную процедуру 'sp_InsertLesson ???',
+   и применить эту процедуру в 'sp_InsertScheduleStacionar';
+
+DONE:
 1. Выставить расписание на базовый семестр по схеме 12-21;
 
 DONE:
