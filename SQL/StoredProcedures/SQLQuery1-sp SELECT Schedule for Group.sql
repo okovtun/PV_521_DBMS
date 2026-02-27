@@ -1,5 +1,6 @@
 ﻿--SQLQuery1-sp SELECT Schedule for Group.sql
 USE PV_521_Import;
+SET DATEFIRST 1;
 GO
 
 ALTER PROCEDURE sp_SelectScheduleFor @group	AS	NCHAR(10)
