@@ -8,6 +8,9 @@ CAST vs CONVERT:
 https://stackoverflow.com/questions/59916558/sql-server-cast-vs-convert
 
 TODO:
+1. Заполнить таблицу 'DaysOFF' на 2026 год;
+
+DONE:
 1. Написать функцию GetNextLearningDay, которая определяет в какой день недели будет следующее занятие у группы;
 	1.1	Проверить GetNextLearningDay на группах 'PV_319' и 'Java_326';
 2. Написать функцию GetNextLearningDate, которая определяет дату следующего занятия у группы;
