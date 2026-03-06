@@ -8,6 +8,9 @@ CAST vs CONVERT:
 https://stackoverflow.com/questions/59916558/sql-server-cast-vs-convert
 
 TODO:
+1. Поздравить девочек;
+
+DONE:
 1. Заполнить таблицу 'DaysOFF' на 2026 год;
 
 DONE:
